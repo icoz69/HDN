@@ -1,6 +1,6 @@
 # Hierarchical Normalization for Robust Monocular Depth Estimation
 
-PyTorch re-implementation of 
+This repo contains PyTorch re-implementation of HDN loss functions, proposed in  
 
 [Hierarchical Normalization for Robust Monocular Depth Estimation](https://openreview.net/pdf?id=BNqRpzwyOFU)" (NeurIPS 2022)  
 
@@ -17,7 +17,7 @@ If you use the code in this repo for your work, please cite the following bib en
     }
 
 
-If you have any question regarding the paper, please send a email to the author `johnczhang[at]tencent[dot]com`.
+If you have any questiones regarding the paper, please send a email to the author `johnczhang[at]tencent[dot]com`.
 
 ## Abstract
 
